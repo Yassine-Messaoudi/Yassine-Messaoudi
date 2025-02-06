@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Devops , BigData , BI**
 
-- 💬 Ask me about **Angular , SpringBoot , ASP.NET**
+- 💬 Ask me about **Angular , SpringBoot , ASP.NET , REACT**
 
-- 📫 How to reach me **yassinetlili97@gmail.com**
+- 📫 How to reach me **messaouudiyassine@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
