@@ -54,3 +54,14 @@ I'm a software engineer from Tunisia who enjoys turning ideas into clean, reliab
 <a href="https://github.com/Yassine-Messaoudi?tab=repositories">[ EXPLORE REPOSITORIES ]</a> &nbsp; · &nbsp; <a href="https://twitter.com/yassinedev85">[ CONNECT ]</a>
 
 </div>
+
+
+## Selected builds
+
+<table>
+<tr>
+<td width="33%" valign="top"><strong>01 / BACKEND_RESTOX</strong><br><br>ASP.NET backend project.<br><br><a href="https://github.com/Yassine-Messaoudi/BACKEND_Restox">VIEW REPOSITORY →</a></td>
+<td width="34%" valign="top"><strong>02 / DEVOPS5</strong><br><br>Java project with a Dockerfile, Docker Compose, and Jenkins pipeline.<br><br><a href="https://github.com/Yassine-Messaoudi/DevOps5">VIEW REPOSITORY →</a></td>
+<td width="33%" valign="top"><strong>03 / DANCE ESCAPE BACKEND</strong><br><br>Spring Boot backend using Spring Security.<br><br><a href="https://github.com/Yassine-Messaoudi/DanceEscapeEspritBackendd">VIEW REPOSITORY →</a></td>
+</tr>
+</table>
