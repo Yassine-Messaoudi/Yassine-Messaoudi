@@ -1,28 +1,53 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Yassine Messaoudi</h1>
-<h3 align="center">Web Developer | Software Engineer from Tunisia | Passionate about building scalable and efficient solutions</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassynmss&label=Profile%20views&color=0e75b6&style=flat" alt="yassynmss" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/yassinedev85" target="blank"><img src="https://img.shields.io/twitter/follow/yassinedev85?logo=twitter&style=for-the-badge" alt="yassinedev85" /></a> </p>
+<img src="https://raw.githubusercontent.com/Yassine-Messaoudi/Yassine-Messaoudi/main/078ad201-da95-4dbf-bfda-5bdd889aeae1.png" alt="Yassine Messaoudi — Full-stack software engineer" width="100%" />
 
-- 🌱 I’m currently learning **Devops , BigData , BI**
+<h1>Hi, I'm Yassine Messaoudi</h1>
 
-- 💬 Ask me about **Angular , SpringBoot , ASP.NET , REACT**
+<p><strong>Full-stack Software Engineer</strong> · Building useful, scalable web applications · Based in Tunisia</p>
 
-- 📫 How to reach me **messaouudiyassine@gmail.com**
+<a href="mailto:messaouudiyassine@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-95f43f?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email Yassine" /></a>
+<a href="https://github.com/Yassine-Messaoudi"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Yassine on GitHub" /></a>
+<a href="https://twitter.com/yassinedev85"><img src="https://img.shields.io/badge/Twitter-Follow-161b22?style=for-the-badge&logo=x&logoColor=white" alt="Yassine on Twitter" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yassinedev85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassinedev85" height="30" width="40" /></a>
-<a href="https://discord.gg/593941437205184513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="593941437205184513" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Yassine-Messaoudi&style=flat-square&color=95f43f&label=PROFILE+VIEWS" alt="Profile views" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassynmss&show_icons=true&locale=en&layout=compact" alt="yassynmss" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassynmss&show_icons=true&locale=en" alt="yassynmss" /></p>
+## About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassynmss&" alt="yassynmss" /></p>
+<img src="https://raw.githubusercontent.com/Yassine-Messaoudi/Yassine-Messaoudi/main/Neon%20DevOps%20Developer%20Portrait.png" alt="Portrait of Yassine Messaoudi" width="280" align="right" />
+
+I'm a software engineer from Tunisia who enjoys turning ideas into clean, reliable products. I work across frontend and backend development, and I care about building applications that are useful, maintainable, and ready to grow.
+
+- **Currently learning:** DevOps, Big Data, and Business Intelligence
+- **Ask me about:** Angular, React, Spring Boot, and ASP.NET
+- **Reach me:** [messaouudiyassine@gmail.com](mailto:messaouudiyassine@gmail.com)
+
+## Technologies I work with
+
+**Frontend**  
+![Angular](https://img.shields.io/badge/Angular-161b22?style=flat-square&logo=angular&logoColor=DD0031) ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6) ![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=1572B6)
+
+**Backend**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-161b22?style=flat-square&logo=springboot&logoColor=6DB33F) ![ASP.NET](https://img.shields.io/badge/ASP.NET-161b22?style=flat-square&logo=dotnet&logoColor=512BD4) ![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00) ![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![PHP](https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=777BB4)
+
+**Data & tools**  
+![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=47A248) ![SQL Server](https://img.shields.io/badge/SQL%20Server-161b22?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927) ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032) ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624) ![Postman](https://img.shields.io/badge/Postman-161b22?style=flat-square&logo=postman&logoColor=FF6C37)
+
+## GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yassine-Messaoudi&show_icons=true&hide_border=true&title_color=95f43f&icon_color=95f43f&text_color=c9d1d9&bg_color=0d1117" alt="Yassine's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-Messaoudi&layout=compact&hide_border=true&title_color=95f43f&text_color=c9d1d9&bg_color=0d1117" alt="Most used programming languages" />
+
+</div>
+
+<div align="center">
+
+[More of my work on GitHub](https://github.com/Yassine-Messaoudi) · [Connect on Twitter](https://twitter.com/yassinedev85)
+
+</div>
