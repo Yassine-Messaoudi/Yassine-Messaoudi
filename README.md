@@ -3,14 +3,9 @@
 <img src="https://raw.githubusercontent.com/Yassine-Messaoudi/Yassine-Messaoudi/main/078ad201-da95-4dbf-bfda-5bdd889aeae1.png" alt="Yassine Messaoudi — Full-stack software engineer" width="100%" />
 
 <h1>Hi, I'm Yassine Messaoudi</h1>
-
 <p><strong>Full-stack Software Engineer</strong> · Building useful, scalable web applications · Based in Tunisia</p>
-
-<a href="mailto:messaouudiyassine@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-95f43f?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email Yassine" /></a>
-<a href="https://github.com/Yassine-Messaoudi"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Yassine on GitHub" /></a>
-<a href="https://twitter.com/yassinedev85"><img src="https://img.shields.io/badge/Twitter-Follow-161b22?style=for-the-badge&logo=x&logoColor=white" alt="Yassine on Twitter" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=Yassine-Messaoudi&style=flat-square&color=95f43f&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="mailto:messaouudiyassine@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-95f43f?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email Yassine" /></a> <a href="https://github.com/Yassine-Messaoudi"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Yassine on GitHub" /></a> <a href="https://twitter.com/yassinedev85"><img src="https://img.shields.io/badge/Twitter-Follow-161b22?style=for-the-badge&logo=x&logoColor=white" alt="Yassine on Twitter" /></a>
+<br><img src="https://komarev.com/ghpvc/?username=Yassine-Messaoudi&style=flat-square&color=95f43f&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -45,17 +40,17 @@ I'm a software engineer from Tunisia who enjoys turning ideas into clean, reliab
 **Data & tools**  
 ![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=47A248) ![SQL Server](https://img.shields.io/badge/SQL%20Server-161b22?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927) ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032) ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624) ![Postman](https://img.shields.io/badge/Postman-161b22?style=flat-square&logo=postman&logoColor=FF6C37)
 
-## GitHub at a glance
+## GitHub // BUILD ACTIVITY
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yassine-Messaoudi&show_icons=true&hide_border=true&title_color=95f43f&icon_color=95f43f&text_color=c9d1d9&bg_color=0d1117&hide_rank=true" alt="Yassine's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-Messaoudi&layout=compact&hide_border=true&title_color=95f43f&text_color=c9d1d9&bg_color=0d1117" alt="Most used programming languages" />
+<strong><code>01 — ENGINEERING OUTPUT</code></strong> &nbsp; <sub>COMMITS · STARS · PRS · ISSUES</sub>
+<br><br>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yassine-Messaoudi&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&title_color=95f43f&icon_color=95f43f&text_color=c9d1d9&bg_color=0d1117&custom_title=BUILD%20ACTIVITY" alt="GitHub build activity stats" /> <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-Messaoudi&layout=compact&langs_count=6&hide_border=true&title_color=95f43f&text_color=c9d1d9&bg_color=0d1117&custom_title=CODE%20MIX" alt="Most used programming languages" />
 
-</div>
-
-<div align="center">
-
-[More of my work on GitHub](https://github.com/Yassine-Messaoudi) · [Connect on Twitter](https://twitter.com/yassinedev85)
+<br><br>
+<strong><code>02 — BUILD RHYTHM</code></strong> &nbsp; <sub>YOUR PROFILE · YOUR PROJECTS</sub>
+<br><br>
+<a href="https://github.com/Yassine-Messaoudi?tab=repositories">[ EXPLORE REPOSITORIES ]</a> &nbsp; · &nbsp; <a href="https://twitter.com/yassinedev85">[ CONNECT ]</a>
 
 </div>
