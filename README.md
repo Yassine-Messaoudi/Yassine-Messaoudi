@@ -90,3 +90,22 @@ I'm a software engineer from Tunisia who enjoys turning ideas into clean, reliab
 <img width="100%" src="https://trophy.ryglcloud.net/?username=Yassine-Messaoudi&theme=darkhub&no-frame=true&no-bg=true&column=6&title=Experience%2CRepositories" alt="GitHub profile achievements for experience and repositories" />
 
 </div>
+
+
+## GitHub profile // 360° overview
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yassine-Messaoudi&theme=github_dark" alt="GitHub profile overview and contribution timeline" />
+
+<table>
+<tr>
+<td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yassine-Messaoudi&theme=github_dark" alt="Top languages by repository" /></td>
+<td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yassine-Messaoudi&theme=github_dark" alt="Top languages by commits" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img width="54%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yassine-Messaoudi&theme=github_dark&utcOffset=1" alt="Commits by hour in UTC plus one" /></td>
+</tr>
+</table>
+
+</div>
