@@ -49,7 +49,7 @@ I'm a software engineer from Tunisia who enjoys turning ideas into clean, reliab
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yassine-Messaoudi&show_icons=true&hide_border=true&title_color=95f43f&icon_color=95f43f&text_color=c9d1d9&bg_color=0d1117" alt="Yassine's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yassine-Messaoudi&show_icons=true&hide_border=true&title_color=95f43f&icon_color=95f43f&text_color=c9d1d9&bg_color=0d1117&hide_rank=true" alt="Yassine's GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-Messaoudi&layout=compact&hide_border=true&title_color=95f43f&text_color=c9d1d9&bg_color=0d1117" alt="Most used programming languages" />
 
 </div>
