@@ -65,3 +65,28 @@ I'm a software engineer from Tunisia who enjoys turning ideas into clean, reliab
 <td width="33%" valign="top"><strong>03 / DANCE ESCAPE BACKEND</strong><br><br>Spring Boot backend using Spring Security.<br><br><a href="https://github.com/Yassine-Messaoudi/DanceEscapeEspritBackendd">VIEW REPOSITORY →</a></td>
 </tr>
 </table>
+
+
+## Contribution streak
+
+<div align="center">
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yassine-Messaoudi&theme=dark&hide_border=true&background=0D1117&ring=95f43f&fire=95f43f&currStreakLabel=95f43f" alt="GitHub contribution streak" />
+
+</div>
+
+## Contribution calendar
+
+<div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/95f43f/Yassine-Messaoudi" alt="GitHub contribution calendar" />
+
+</div>
+
+## Profile achievements
+
+<div align="center">
+
+<img width="100%" src="https://trophy.ryglcloud.net/?username=Yassine-Messaoudi&theme=darkhub&no-frame=true&no-bg=true&column=6&title=Experience%2CRepositories" alt="GitHub profile achievements for experience and repositories" />
+
+</div>
