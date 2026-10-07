@@ -109,3 +109,23 @@ I'm a software engineer from Tunisia who enjoys turning ideas into clean, reliab
 </table>
 
 </div>
+
+
+---
+
+## Projects on the web
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Scar Vault</h3>
+<p>A Tunisia-focused digital gaming store for gift cards, game codes, and subscriptions.</p>
+<a href="https://scar-vault.com/"><img src="https://img.shields.io/badge/SCAR%20VAULT-Visit%20website-95f43f?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Visit Scar Vault" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>Dev by Yassine</h3>
+<p>My personal portfolio and developer website.</p>
+<a href="https://devbyyassine.com/"><img src="https://img.shields.io/badge/DEV%20BY%20YASSINE-Visit%20portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Dev by Yassine portfolio" /></a>
+</td>
+</tr>
+</table>
