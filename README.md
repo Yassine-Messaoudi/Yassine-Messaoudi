@@ -18,13 +18,21 @@
 
 ## About me
 
-<img src="https://raw.githubusercontent.com/Yassine-Messaoudi/Yassine-Messaoudi/main/Neon%20DevOps%20Developer%20Portrait.png" alt="Portrait of Yassine Messaoudi" width="280" align="right" />
-
 I'm a software engineer from Tunisia who enjoys turning ideas into clean, reliable products. I work across frontend and backend development, and I care about building applications that are useful, maintainable, and ready to grow.
 
 - **Currently learning:** DevOps, Big Data, and Business Intelligence
 - **Ask me about:** Angular, React, Spring Boot, and ASP.NET
 - **Reach me:** [messaouudiyassine@gmail.com](mailto:messaouudiyassine@gmail.com)
+
+## My build signature
+
+<table>
+<tr>
+<td width="33%" valign="top"><strong>01 / THINK END-TO-END</strong><br><br>Connect thoughtful interfaces with dependable backend systems.</td>
+<td width="34%" valign="top"><strong>02 / KEEP IT USEFUL</strong><br><br>Make software clear to use, maintain, and improve.</td>
+<td width="33%" valign="top"><strong>03 / GROW WITH INTENT</strong><br><br>Explore DevOps, Big Data, and Business Intelligence one project at a time.</td>
+</tr>
+</table>
 
 ## Technologies I work with
 
